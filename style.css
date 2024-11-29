@@ -1,0 +1,162 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
+}
+.box1-img {
+  display: flex;
+  height: 70px;
+  padding: 30px 0px 0px 30px;
+  /* display: block; */
+}
+
+.wallet {
+  margin-top: 20px;
+  margin-left: 30px;
+  padding-right: 500px;
+}
+
+.nav-li {
+  display: flex;
+  list-style: none;
+  gap: 35px;
+  font-size: 20px;
+}
+.nav-logo {
+  display: flex;
+  justify-content: space-between;
+  font-size: 30px;
+}
+.nav-btn {
+  display: flex;
+  font-size: 20px;
+  height: 30px;
+  width: 110px;
+  align-items: center;
+  justify-content: center;
+  background-color: #8364e2;
+  border-radius: 25px;
+  border: none;
+  transition: all;
+  /* box-shadow: 0 4px 15px rgba(0, 123, 255, 0.5); Initial shadow */
+}
+.nav-btn:hover {
+  box-shadow: 5px 5px;
+  background-color: #8364e2;
+  transition: all;
+  box-shadow: 0 15px 60px rgba(43, 2, 18, 0.7); /* Shadow on hover */
+}
+.nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(34, 206, 206);
+  height: 70px;
+  align-items: center;
+  width: 100%;
+}
+.nav-cont {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.section1 {
+  margin-top: 50px;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.sec-1 {
+  width: 538px;
+}
+.sec-2 {
+  width: 538px;
+}
+.sec-img {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  border-radius: 25px;
+}
+/* .sec1-space {
+    margin-top: 20px;
+    padding: 20px;
+  } */
+
+.sec1-btn {
+  display: flex;
+  font-size: 20px;
+  height: 30px;
+  width: 110px;
+  align-items: center;
+  justify-content: center;
+  background-color: #8364e2;
+  border-radius: 25px;
+  border: none;
+  transition: all;
+  padding: 0%;
+}
+.h3 {
+  color: #643fd3;
+  font-size: 20px;
+}
+.heading {
+  font-size: 50px;
+}
+.loream1 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.section2 {
+  display: flex;
+  font-size: 50px;
+  justify-content: center;
+  margin-top: 20px;
+}
+.sec2-border {
+  width: 80px;
+  margin-left: 630px;
+  border-bottom: black solid 2px;
+}
+.section3 {
+  display: flex;
+  width: 20px;
+  height: 150px;
+  background-color: gray;
+}
+.box1 {
+  
+  width: 250px;
+  height: 350px;
+  background-color: whitesmoke;
+  border-style: none;
+  border-radius: 25px;
+  
+}
+
+.main-box {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 25px;
+}
+
+.loream-text {
+    text-align: center; /* Center the text */
+    margin-top: 10px; /* Add space between wallet text and paragraph */
+}
+
+.wallet-p{
+    margin-top: 10px;
+    height: 20px;
+    margin-left: 30px;
+}
+
+
+/* section:03 */
+
+.section3-main{
+    
+}
